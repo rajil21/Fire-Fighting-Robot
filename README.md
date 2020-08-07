@@ -5,4 +5,7 @@
 * Presently, conventional wall switches located in different parts of the house makes it difficult for the user to go near them to operate. Even more it becomes more difficult for the elderly or physically handicapped people to do so.
 * Remote controlled home automation system provides a most modern solution with smart phones.
 
+Find the source code here [Arduino Code](fire_fighting.ino)
+
+Find the Demo Video of the project here [Demo Video](DEMO_VIDEO.mp4)
 
