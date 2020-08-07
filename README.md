@@ -7,4 +7,4 @@
 
 The Source code can be found here [Arduino Code](fire_fighting.ino)
 
-The Demo Video of the project can be found here [DEMO VIDEO](DEMO_VIDEO.mp4)
+The Demo Video of the project can be found here [Demo Video](DEMO_VIDEO.mp4)
